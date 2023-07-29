@@ -1,8 +1,6 @@
-# textMe
+# TextMe
 
-## NextJS Chat Tutorial
-
-This project is powered by [Chat Engine](https://chatengine.io).
+## NextJS Chat App
 
 ## Tutorial Setup
 
