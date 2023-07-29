@@ -1,13 +1,45 @@
 # TextMe
 
-## NextJS Chat App
+## Demo
 
-## Tutorial Setup
+https://todo07.netlify.app/
 
-Download Code > Zip from [the main branch](https://github.com/sumittripathi07/textMe).
+## Run Locally
 
-Go to [Chat Engine](https://chatengine.io) and create a account and project.
+Clone the project
 
-### `npm`
+```bash
+  git clone https://github.com/Sumittripathi07/TextMe.git
+```
 
-Install everything with `npm install` then run `npm run dev` to get up and running.
+Go to the project directory
+
+```bash
+  cd TextMe
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+## Tech Stack
+
+**Client:** Next JavaScript
+**Database:** Chat Engine
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-tripathi-932bb31b5/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sumittripathi07/)
+
+## License
+
+Copyright (c) [2023] [Sumit Tripathi](https://github.com/Sumittripathi07)
