@@ -1,8 +1,8 @@
 # TextMe
-
+TextMe is a basic chat application where people can log in and have conversations. 
 ## Demo
 
-https://todo07.netlify.app/
+Soon be Deployed
 
 ## Run Locally
 
