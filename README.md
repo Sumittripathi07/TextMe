@@ -2,7 +2,7 @@
 TextMe is a basic chat application where people can log in and have conversations. 
 ## Demo
 
-Soon be Deployed
+Deployment in process.............
 
 ## Run Locally
 
